@@ -12,6 +12,9 @@ Another method of using text selection bold or italics. We need it in order to c
 
 ## Working with picture
 
+In order to paste images in text, we need:
+![Hi, luxury life!](Luxury_life.jpg)
+
 ## Links
 
 ## Working with tables
