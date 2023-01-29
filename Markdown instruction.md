@@ -10,6 +10,7 @@ Another method of using text selection bold or italics. We need it in order to c
 
 ## Lists
 
+In order to select unnumbered list, please use (*)
 ## Working with picture
 
 In order to paste images in text, we need:
